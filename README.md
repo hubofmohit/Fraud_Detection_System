@@ -84,3 +84,6 @@ You can load these later to make predictions in real-time or serve them through 
 ## License
 
 This project is open-source and free to use for educational and research purposes.
+
+## CSV File
+https://drive.google.com/file/d/1nntEYz4ccY12QGJvwnbLErxge6TIJDq_/view?usp=drive_link
